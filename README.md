@@ -15,3 +15,5 @@ Python, pandas, matplotlib, seaborn, scipy
 
 ## Notebook
 See [`01_load_and_inspect.ipynb`](01_load_and_inspect.ipynb) for the full analysis, including data cleaning, statistical tests, and visualizations.
+## Next Steps
+Extending this project with a machine learning model to predict match winners, using toss, venue, and powerplay stats as features.
